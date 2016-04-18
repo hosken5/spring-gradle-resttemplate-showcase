@@ -1,0 +1,1 @@
+# spring-gradle-resttemplate-showcase
